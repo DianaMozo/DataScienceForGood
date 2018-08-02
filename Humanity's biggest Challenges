@@ -1,0 +1,46 @@
+<!doctype html>
+
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+
+  <title>The HTML5 Herald</title>
+  <meta name="description" content="The HTML5 Herald">
+  <meta name="author" content="SitePoint">
+  <link rel="stylesheet" href="css/styles.css?v=5.0">
+<style>
+h1 {
+    color: whitesmoke;
+    font-family: verdana;
+    font-size: 300%;
+}
+h2 {
+    color: whitesmoke;
+    font-family: verdana;
+    font-size: 200%;
+}
+p  {
+    color: lightyellow;
+    font-family: courier;
+    font-size: 160%;
+}
+</style>
+</head>
+
+<body style="background-color:burlywood;">
+
+<h1>List of Humanity's biggest challenges</h1>
+
+<h2>The Millenium Project</h2>
+
+<p><a href="http://www.millennium-project.org/projects/challenges/">The Millenium Project</a> is a think tank in behalf of humanity.</p>
+
+<p>This organisation provides a framework that every year, it produces a report listing the top 15 biggest challenges humanity faces.</p>
+
+
+
+
+
+  <script src="js/scripts.js"></script>
+</body>
+</html>
