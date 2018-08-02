@@ -1,0 +1,16 @@
+Examples Humanity's Biggest Challenges & Data Science
+
+Global Challenge #8
+How can the threat of new and reemerging diseases and immune microorganisms be reduced?
+
+Question
+Progress & Climate Change are changing our environment. How is  delicate balance of our ecosystem been impacted?
+Hypothesis
+Can you identify a bee as a honey bee or a bumble bee?
+Wild bees are important pollinators and the spread of colony collapse disorder has only made their role more critical. 
+Right now it takes a lot of time and effort for researchers to gather data on wild bees. Using data submitted by 
+citizen scientists, Bee Spotter is making this process easier. However, they still require that experts examine and 
+identify the bee in each image. You're goal is to build an algorithm to help.
+The starting point is to determine the genus—Apis (honey bee) or Bombus (bumble bee)—based on photographs of the insects.
+
+SOURCE: DATA DRIVEN 
